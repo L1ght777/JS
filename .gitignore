@@ -12,3 +12,6 @@
 /.local
 /.gitconfig
 /.gitignore
+/.npm
+/.hushlogin
+/.viminfo
